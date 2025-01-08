@@ -24,7 +24,7 @@ Ejemplo de JSON para enviar:<br>
 (<br>
 "nombre": "valor", <br>
 "edad": "valor",<br>
-'Content-Type': 'application/json'<br>
+"Content-Type": "application/json"<br>
 )<br><br>
 
 <a href="https://rsuriani99.ngrok.app/api">Ir al/api es ruta fija</a><br><br>
