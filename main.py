@@ -27,7 +27,7 @@ Ejemplo de JSON para enviar:<br>
 "Content-Type": "application/json"<br>
 )<br><br>
 
-<https://rsuriani99.ngrok.app/api <br><br>
+https://rsuriani99.ngrok.app/api <br><br>
 
 https://reqbin.com/post-online <br><br>
 
