@@ -27,11 +27,14 @@ Ejemplo de JSON para enviar:<br>
 "Content-Type": "application/json"<br>
 )<br><br>
 
-<a href="https://rsuriani99.ngrok.app/api">Ir al/api es ruta fija</a><br><br>
+<https://rsuriani99.ngrok.app/api <br><br>
 
-<a href="https://reqbin.com/post-online">post tool reqbin.com</a><br><br>
+https://reqbin.com/post-online <br><br>
 
-<a href="chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/index.html#requests">chrome extension Talent Api Tester</a><br><br>
+https://api4-0pnq.onrender.com/
+
+https://api4-0pnq.onrender.com/api
+
 
 Hora actual: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 </p>
